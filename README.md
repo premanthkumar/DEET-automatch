@@ -1,4 +1,4 @@
-# DEET Instant Registration System
+# DEET Automatch
 
 > Upload a resume. Get a complete DEET profile in seconds — plus a live board of verified job vacancies scraped directly from employer career pages.
 
