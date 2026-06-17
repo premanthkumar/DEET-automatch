@@ -18,7 +18,8 @@ Most job portals make applicants re-type everything from their resume. This fixe
 ## Demo
 
 <!-- Drop a GIF here once you have one -->
-> 🎥 *Demo GIF coming soon*
+<img width="800" height="450" alt="deetautomatchdemo" src="https://github.com/user-attachments/assets/4a62e6be-5709-4cc0-9d50-bc0856d0ca27" />
+
 
 ---
 
